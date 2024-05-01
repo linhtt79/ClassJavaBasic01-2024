@@ -7,5 +7,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.printf("Xin chao");
         System.out.printf("Hoc Java Basic");
+        System.out.printf("Pull code ve");
+
     }
 }
